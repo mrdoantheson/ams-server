@@ -1,0 +1,11 @@
+
+
+                              ${AnsiColor.BLUE}    ██╗  ██╗███████╗██╗ ${AnsiColor.RED}███╗   ██╗███████╗ ${AnsiColor.YELLOW}██╗  ██╗███████╗███╗   ██╗
+                              ${AnsiColor.BLUE}    ██║  ██║██╔════╝██║ ${AnsiColor.RED}████╗  ██║██╔════╝ ${AnsiColor.YELLOW}██║ ██╔╝██╔════╝████╗  ██║
+                              ${AnsiColor.BLUE}    ███████║█████╗  ██║ ${AnsiColor.RED}██╔██╗ ██║█████╗   ${AnsiColor.YELLOW}█████╔╝ █████╗  ██╔██╗ ██║
+                              ${AnsiColor.BLUE}    ██╔══██║██╔══╝  ██║ ${AnsiColor.RED}██║╚██╗██║██╔══╝   ${AnsiColor.YELLOW}██╔═██╗ ██╔══╝  ██║╚██╗██║
+                              ${AnsiColor.BLUE}    ██║  ██║███████╗██║ ${AnsiColor.RED}██║ ╚████║███████╗ ${AnsiColor.YELLOW}██║  ██╗███████╗██║ ╚████║
+                              ${AnsiColor.BLUE}    ╚═╝  ╚═╝╚══════╝╚═╝ ${AnsiColor.RED}╚═╝  ╚═══╝╚══════╝ ${AnsiColor.YELLOW}╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝
+
+${AnsiColor.BRIGHT_BLUE}:: JHipster 🤓  :: Running Spring Boot ${spring-boot.version} ::
+:: https://www.jhipster.tech ::${AnsiColor.DEFAULT}

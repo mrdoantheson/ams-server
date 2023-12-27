@@ -1,0 +1,20 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/ams_db?createDatabaseIfNotExist=true&useUnicode=yes&characterEncoding=UTF-8
+    username: root
+    password: toilamanh123
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    show-sql: true
+    hibernate.ddl-auto: create
+
+server:
+  port: 8888
+
+app:
+  security:
+    secret-key: 4GNADCBiQKBIb3DQEBAQUAA4GNADCBiQKBgQCPqVE4GNADCBi
+    secret-key-refresh: uXezseQSnBLP2pPruBvgGVLdrX9SSssshvbjyir6Tz1BQp1YRp
+    jwtExpirationS: 5
+    jwtRefreshExpirationS: 10
